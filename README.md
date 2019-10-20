@@ -39,6 +39,7 @@ D4, D3, D8, D7, D6, D5, D0, A0, I2c, Onewire sowie ein Lochraster zum verschalte
 
 
 Die ganze Platine passt in ein Spelsberg Abox 025 Abzweigdose und ist damit auch für aussen geeignet da IP65.
+Achtung ! Die E/A s dürfen nur mit 3,3V betrieben werden! 
 
 [Kontakt via Facebook](https://www.facebook.com/ronny.thomas.83)
 
